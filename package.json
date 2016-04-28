@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/obj-def/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/obj-def#readme"
+  "homepage": "https://github.com/IonicaBizau/obj-def#readme",
+  "dependencies": {
+    "deffy": "^2.2.2"
+  }
 }
