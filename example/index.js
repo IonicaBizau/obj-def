@@ -2,4 +2,11 @@
 
 const objDef = require("../lib");
 
-console.log(objDef());
+let foo = {
+    bar: 42
+};
+
+objDef(foo, "bar", 7);
+objDef(foo, "location", "Mars");
+
+console.log(foo);
