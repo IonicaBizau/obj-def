@@ -33,6 +33,7 @@ console.log(foo);
 
 ## :memo: Documentation
 
+
 ### `objDef(obj, field, defValue, opts)`
 Easily set default fields in objects.
 
