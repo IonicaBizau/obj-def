@@ -1,5 +1,7 @@
 
-# obj-def [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/obj-def.svg)](https://www.npmjs.com/package/obj-def) [![Downloads](https://img.shields.io/npm/dt/obj-def.svg)](https://www.npmjs.com/package/obj-def) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
+# obj-def
+
+ [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![AMA](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/obj-def.svg)](https://www.npmjs.com/package/obj-def) [![Downloads](https://img.shields.io/npm/dt/obj-def.svg)](https://www.npmjs.com/package/obj-def) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Easily set default fields in objects.
 
@@ -33,6 +35,7 @@ console.log(foo);
 
 ## :memo: Documentation
 
+
 ### `objDef(obj, field, defValue, opts)`
 Easily set default fields in objects.
 
@@ -50,6 +53,12 @@ Easily set default fields in objects.
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
+## :dizzy: Where is this library used?
+If you are using this library in one of your projects, add it in this list. :sparkles:
+
+
+ - [`one-by-one`](https://github.com/IonicaBizau/one-by-one)—Run async tasks one by one.
+ - [`scrape-it`](https://github.com/IonicaBizau/scrape-it#readme)—A Node.js scraper for humans.
 
 ## :scroll: License
 
